@@ -2,7 +2,8 @@
 
 ![image](https://github.com/user-attachments/assets/2352bfcd-c8b6-458d-8439-1ec53997f40f)
 
-<img width="1538" height="865" alt="image" src="https://github.com/user-attachments/assets/d462126e-97f4-49c0-a6c2-345fe8a2a4d6" />
+<img width="1057" height="593" alt="image" src="https://github.com/user-attachments/assets/3c9085c5-c277-48a3-a26b-0de20d7c6b17" />
+
 
 # HR Data Analytics – Employee Attendance Analysis
 
